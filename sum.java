@@ -8,7 +8,7 @@ class Main {
         System.out.println(Double.sum(a, b));
 
 
-     // Hello github
+     // Hello
 
 
 
